@@ -12,7 +12,7 @@
 
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
-  <p>Notion : </p> <a>https://www.notion.so/Kim-Seung-Ryel-930ad33cd39c48eea77024cc9693c6f2</a>
+ <a>https://www.notion.so/Kim-Seung-Ryel-930ad33cd39c48eea77024cc9693c6f2</a>
 </div><br>
     
 
