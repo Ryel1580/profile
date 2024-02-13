@@ -12,7 +12,7 @@
 
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
- <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"> : <a href ="https://www.notion.so/Kim-Seung-Ryel-930ad33cd39c48eea77024cc9693c6f2">Kim Seung Ryel Notion</a>
+ <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"> : <a href ="https://www.notion.so/Kim-Seung-Ryel-930ad33cd39c48eea77024cc9693c6f2">Notion</a>
 </div><br>
     
 
